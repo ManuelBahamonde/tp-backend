@@ -5,11 +5,11 @@
 |Requerimiento funcional|cant. mín.<br>1 o 2 integ|cant. máx.<br>3 o 4 integ|Detalle/Listado de casos|Cumple|
 |:-|-:|-:|:-|-|
 |ABMC simple|1 x integ|1 x integ|1- Clientes<br>2- Inmobiliarias<br>3- TipoInmueble
-|ABMC dependiente|1|2|1- Contratos <br> 2- Casas/deptos
+|ABMC dependiente|1|2|1- Contratos <br> 2- Inmuebles
 |Listado simple|1|1|1- Listado de Inmobiliarias
-|Listado complejo obligatorio|1|2|1- Listado de Casas/Deptos <br>2- Listado de Contratos
+|Listado complejo obligatorio|1|2|1- Listado de Inmuebles <br>2- Listado de Contratos
 |Listado adicional con filtro|0|0|
-|Detalle básico|1(*)|2(*)|1- Casa/Depto <br> 2- Inmobiliaria
+|Detalle básico|1(*)|2(*)|1- Inmueble <br> 2- Inmobiliaria
 |Detalle parametrizable|0|0|
 |Otros|0|0|
 
