@@ -1,5 +1,13 @@
 # TP Backend TTADS
 
+## Integrantes del grupo
+
+Legajo|Nombre|Email|
+|:-|:-|:-|
+|45743|Scaldini, Gianfranco|gianscaldinis6@gmail.com|
+|45746|Sammataro, Ramiro|ramasammataro@gmail.com|
+|45699|Bahamonde, Manuel|manuelbahamonde6@gmail.com|
+
 ## 1 - Enunciado
 
 ### 1.1 - Desarrollo
