@@ -8,6 +8,19 @@ Legajo|Nombre|Email|
 |45746|Sammataro, Ramiro|ramasammataro@gmail.com|
 |45699|Bahamonde, Manuel|manuelbahamonde6@gmail.com|
 
+## Descripción Básica del Sistema
+Sistema de alquileres de inmuebles. Pueden registrarse Inmobiliarias y Particulares. Tanto Inmobiliarias como Particulares pueden publicar Inmuebles, pero las Inmobiliarias tienen la posibilidad de crear un perfil propio al que los clientes pueden acceder y ver fácilmente todas sus publicaciones.
+Las inmobiliarias que se registran pasarían a revisión del Administrador para constatar que sus datos sean reales.
+A su vez, ofreceríamos el servicio de consultar las APIs de Inmobiliarias por fuera de nuestro sistema para obtener datos de sus Inmuebles y mostrarlos en nuestro sistema. Esto les evita volver a cargar sus inmuebles de su página en la nuestra y además les permite mantenerlos actualizados solo modificándolos en su página.
+
+Para cada inmueble, ofrecemos la posibilidad de seleccionar un Plan, el cual les da una prioridad en el ordenamiento de los listados. Los planes serían:
+  * Plan básico --> Grátis, prioridad 0
+  * Plan intermedio --> Pago, prioridad 1
+  * Plan alto --> Pago, prioridad 2
+
+### Modelo de Datos
+![Inmobiliaria](https://user-images.githubusercontent.com/62448899/116575597-2cf28300-a8e5-11eb-89bd-409393250f6b.png)
+
 ## 1 - Enunciado
 
 ### 1.1 - Desarrollo
