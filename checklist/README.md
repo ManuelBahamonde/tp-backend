@@ -5,9 +5,9 @@
 |Requerimiento funcional|cant. mín.<br>1 o 2 integ|cant. máx.<br>3 o 4 integ|Detalle/Listado de casos|Cumple|
 |:-|-:|-:|:-|-|
 |ABMC simple|1 x integ|1 x integ|1- Locatario (Usuario con rol de Locatario) <br>2- Inmobiliarias <br>3- TipoInmueble
-|ABMC dependiente|1|2|1- Contratos_Planes (depende de inmueble) <br> 2- Inmuebles (depende de TipoInmueble)
+|ABMC dependiente|1|2|1- Localidad (depende de Provincia) <br> 2- Inmuebles (depende de TipoInmueble, Usuario, Localidad)
 |Listado simple|1|1|1- Listado de Inmobiliarias
-|Listado complejo obligatorio|1|2|1- Listado de Inmuebles (se relaciona con inmobiliaria) <br>2- Listado de Contratos_Planes (se relaciona con inmueble)
+|Listado complejo obligatorio|1|2|1- Listado de Inmuebles (se relaciona con inmobiliaria) <br>2- Listado de Localidades (se relaciona con Provincia)
 |Listado adicional con filtro|0|0|
 |Detalle básico|1(*)|2(*)|1- Inmueble <br> 2- Inmobiliaria
 |Detalle parametrizable|0|0|
