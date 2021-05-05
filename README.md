@@ -19,7 +19,8 @@ Para cada inmueble, ofrecemos la posibilidad de seleccionar un Plan, el cual les
   * Plan alto --> Pago, prioridad 2
 
 ### Modelo de Datos
-![Inmobiliaria](https://user-images.githubusercontent.com/62448899/116575597-2cf28300-a8e5-11eb-89bd-409393250f6b.png)
+![Inmobiliaria](https://user-images.githubusercontent.com/62448899/117215726-03e65c80-add5-11eb-8a2c-ee3149380f1a.png)
+
 
 ## 1 - Enunciado
 
