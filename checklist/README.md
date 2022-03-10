@@ -7,7 +7,7 @@
 |ABMC simple|1 x integ|1 x integ|1- Usuario <br>2- Provincia <br>3- TipoInmueble
 |ABMC dependiente|1|2|1- Localidad (depende de Provincia) <br> 2- Inmuebles (depende de TipoInmueble, Usuario, Localidad)
 |Listado simple|1|1|1- Listado de Provincias
-|Listado complejo obligatorio|1|2|1- Listado de Inmuebles (se relaciona con inmobiliaria) <br>2- Listado de Localidades (se relaciona con Provincia)
+|Listado complejo obligatorio|1|2|1- Listado de Inmuebles (se relaciona con Usuario) <br>2- Listado de Localidades (se relaciona con Provincia)
 |Listado adicional con filtro|0|0|
 |Detalle básico|1(*)|2(*)|1- Inmueble <br> 2- Localidad
 |Detalle parametrizable|0|0|
