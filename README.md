@@ -11,7 +11,6 @@ Legajo|Nombre|Email|
 ## Descripción Básica del Sistema
 Sistema de alquileres de inmuebles. Pueden registrarse Inmobiliarias y Particulares. Tanto Inmobiliarias como Particulares pueden publicar Inmuebles, pero las Inmobiliarias tienen la posibilidad de crear un perfil propio al que los clientes pueden acceder y ver fácilmente todas sus publicaciones.
 Las inmobiliarias que se registran pasarían a revisión del Administrador para constatar que sus datos sean reales.
-A su vez, ofreceríamos el servicio de consultar las APIs de Inmobiliarias por fuera de nuestro sistema para obtener datos de sus Inmuebles y mostrarlos en nuestro sistema. Esto les evita volver a cargar sus inmuebles de su página en la nuestra y además les permite mantenerlos actualizados solo modificándolos en su página.
 
 ### Modelo de Datos
 ![der](https://user-images.githubusercontent.com/62448899/157594787-a1a0815b-7b57-42c5-a97d-72bf4593752c.png)
